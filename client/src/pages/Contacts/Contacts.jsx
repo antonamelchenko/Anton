@@ -14,7 +14,7 @@ const Contacts = () => {
           <p className='number'>
             <a href='tel:+7 999 999 99 99'>+7 999 999 99 99</a>
           </p>
-          <p>booksStore_full-ignore@mail.ru</p>
+          <p>booksStore@mail.ru</p>
           <p>Ежедневно с 10.00 до 20.00</p>
         </div>
         <div className='contacts__onlineStore'>

@@ -24,16 +24,10 @@ const Footer = () => {
           <div className='col l6 s12'>
             <h5 className='white-text'>booksStore</h5>
             <p className='grey-text text-lighten-4'>
-              This site was designed and <span className='footer__span'></span> When
-              creating this site I applied: node.js, React, reack-hooks,
-              express, mongodb, Routing, materialize.css. As well as such npm
-              packages: swiper, react-sticky-el, react-toastify. I only
-              mentioned the main technologys. I also made the site responsive
-              using relative values ​​and media queries. While developing this
-              site, I got a better understanding of how the backend works,
-              understood better how the useEffect () hook works, and learned
-              some interesting libraries and how to use them with React. And in
-              the end I figured out how a basic online store works.
+               ////////////////////////////////////
+               ////////////////////////////////////
+               ////////////////////////////////////
+               ////////////////////////////////////
             </p>
           </div>
           <div className='col l4 offset-l2 s12'>
